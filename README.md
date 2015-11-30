@@ -1,0 +1,2 @@
+# localizeJS
+Testing out localizeJS
